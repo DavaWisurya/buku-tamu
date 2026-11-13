@@ -21,7 +21,7 @@
     <link href="assets/css/sb-admin-2.min.css" rel="stylesheet">
 
     <!-- Custom styles for this page -->
-    <link href="assets/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+    <link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
 
 </head>
 
@@ -51,12 +51,6 @@
                     <span>Dashboard</span></a>
             </li>
 
-    <!-- Page level plugins -->
-    <script src="assets/vendor/datatables/jquery.dataTables.min.js"></script>
-    <script src="assets/vendor/datatables/dataTables.bootstrap4.min.js"></script>
-
-    <!-- Page level custom scripts -->
-    <script src="assets/js/demo/datatables-demo.js"></script>
             <li class="nav-item">
                 <a class="nav-link" href="buku-tamu.php">
                     <i class="fas fa-fw fa-book-open"></i>
